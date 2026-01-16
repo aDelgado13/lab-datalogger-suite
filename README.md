@@ -17,10 +17,6 @@ The program logs measurements at fixed intervals, stores them in a CSV file, and
 - Temperature acquisition from a 4‑channel thermometer  
 - Configurable sampling interval and test duration  
 - CSV export of all measurements  
-- Automatic HTML report generation including:
-  - Interactive charts (Chart.js)
-  - Full data table
-  - Dark‑theme layout  
 - Error handling and sensor reconnection logic
 
 ---
