@@ -14,11 +14,11 @@
 ##################################
 
 import time
-from datetime import datetime, timedelta
 import csv
 
 from class_definition import DeviceManager
 from my_devices import device_list
+from datetime import datetime, timedelta
 
 # Create a DeviceManager instance with the list of devices
 manager = DeviceManager(device_list)
